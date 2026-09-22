@@ -1,23 +1,3 @@
-<<<<<<< Updated upstream
-<!-- ============================================================
-     RECRUITER SIGNAL BRIEF · vishnudevbutia
-     ============================================================ -->
-
-<div align="center">
-
-<sub>RECRUITER SIGNAL BRIEF · vishnudevbutia</sub>
-
-# Butla Vishnudev
-
-### Frontend or full-stack engineer
-
-<p>3rd-year Computer Science student · Passionate about coding & problem-solving<br>
-Building projects in Machine Learning & Data Science</p>
-
-**• Building and sharing work in public**
-
-[![GitHub](https://img.shields.io/badge/GitHub-vishnudevbutia-181717?style=flat&logo=github)](https://github.com/VishnudevButla)
-=======
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Butla%20Vishnudev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20%2B%20ML%20Systems%20That%20Actually%20Run&descAlignY=58&descSize=17&stroke=7f5af0&strokeWidth=2" width="100%"/>
@@ -35,52 +15,11 @@ Building projects in Machine Learning & Data Science</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishnudev725-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnudev725/)
 [![GitHub](https://img.shields.io/badge/GitHub-VishnudevButla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishnudevButla)
 [![Profile Views](https://komarev.com/ghpvc/?username=VishnudevButla&style=for-the-badge&color=7f5af0&label=PROFILE+VIEWS)](https://github.com/VishnudevButla)
->>>>>>> Stashed changes
 
 </div>
 
 ---
 
-<<<<<<< Updated upstream
-## What teams can evaluate quickly
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Role fit</strong><br><br>
-      Frontend or full-stack engineer · Python · JavaScript · HTML
-    </td>
-    <td width="33%">
-      <strong>Public proof</strong><br><br>
-      11 repositories · 0 stars
-    </td>
-    <td width="33%">
-      <strong>Momentum</strong><br><br>
-      95 contributions · 36 active days
-    </td>
-  </tr>
-</table>
-
-<sub>3rd-year Computer Science student · Passionate about coding & problem-solving · Building projects in Machine Learning & Data Science</sub>
-
----
-
-## Proof at a glance
-
-<div align="center">
-
-| 11 | 0 | 95 | 4 |
-|:---:|:---:|:---:|:---:|
-| Repositories | Stars | Contributions | Followers |
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnudevButla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Profile+Signal)](https://github.com/VishnudevButla)
-=======
 ## ✦ The short version
 
 > I'm a third-year CS student who got tired of tutorials that end at "hello world" and started building things that had to work **end-to-end** — auth, a real database, background jobs, an actual UI on top. Every project below runs live, and every description here is pulled straight from that project's own README, not written up after the fact to sound impressive.
@@ -183,26 +122,12 @@ Building projects in Machine Learning & Data Science</p>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,fastapi,flask,mongodb,postgres,firebase,git,github,vite,tailwind,html,css,scikit-learn&perline=8)](https://github.com/VishnudevButla)
->>>>>>> Stashed changes
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,fastapi,flask,mongodb,postgres,firebase,git,github,vite,tailwind,html,css&perline=8)](https://github.com/VishnudevButla)
 
 </div>
 
 ---
 
-<<<<<<< Updated upstream
-## Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishnudevButla&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/VishnudevButla)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VishnudevButla&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/VishnudevButla)
-=======
 ## 📊 The numbers, for what they're worth
 
 <div align="center">
@@ -211,58 +136,11 @@ Building projects in Machine Learning & Data Science</p>
 <img src="https://streak-stats.demolab.com?user=VishnudevButla&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7f5af0&ring=7f5af0&fire=ff7b72&currStreakNum=fffffe&sideNums=fffffe&currStreakLabel=7f5af0&sideLabels=94a1b2&dates=94a1b2" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnudevButla&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0f0c29&title_color=7f5af0&text_color=fffffe" width="49%"/>
->>>>>>> Stashed changes
 
 </div>
 
 ---
 
-<<<<<<< Updated upstream
-## Selected work
-
-### 🔵 [nexgile-edusage-admissions-portal](https://github.com/VishnudevButla/nexgile-edusage-admissions-portal)
-
-> A full-stack university admissions management portal built with FastAPI, React 19, SQLModel, and Tailwind CSS. Features role-based access for applicants, reviewers, and admins.
-
-`JavaScript` · ⭐ 0 · 🍴 0
-
----
-
-### 🔵 [Fixora](https://github.com/VishnudevButla/Fixora)
-
-> AI-powered civic platform to report, verify & track local infrastructure issues — potholes, leaks, broken streetlights — with real-time tracking and community upvoting.
-
-`JavaScript`
-
----
-
-### 🔵 [TalentMap](https://github.com/VishnudevButla/TalentMap)
-
-> ResumeMatch AI is an NLP-powered system that parses resumes and job descriptions, extracts skills, computes match percentage, and identifies missing skills.
-
-`Python`
-
----
-
-### 🔵 [AutoGrade](https://github.com/VishnudevButla/AutoGrade)
-
-> AI-powered answer sheet grading system using FastAPI, Gemini Flash 2.5 Lite, and TiDB Cloud — automates OCR extraction and LLM-based scoring of student responses.
-
-`Python`
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-=======
 ## 🌿 Contribution Graph
 
 <div align="center">
@@ -283,7 +161,7 @@ Building projects in Machine Learning & Data Science</p>
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/VishnudevButla/VishnudevButla/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<sub>↳ Snake updates daily via GitHub Actions workflow</sub>
+<sub>↳ Snake updates daily via GitHub Actions — see setup note below if not showing yet</sub>
 
 </div>
 
@@ -296,7 +174,6 @@ Building projects in Machine Learning & Data Science</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnudev725/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishnudevButla)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnudevbutla@gmail.com)
->>>>>>> Stashed changes
 
 </div>
 
@@ -304,16 +181,8 @@ Building projects in Machine Learning & Data Science</p>
 
 <div align="center">
 
-<<<<<<< Updated upstream
-<sub>📍 India · Open to opportunities · Building in public</sub>
-
-[![GitHub followers](https://img.shields.io/github/followers/VishnudevButla?label=Follow&style=social)](https://github.com/VishnudevButla)
-
-</div>
-=======
 <sub>If a repo down here looks half-finished, it's probably still teaching me something. That's the deal.</sub>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
->>>>>>> Stashed changes
